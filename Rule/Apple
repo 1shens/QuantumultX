@@ -1,0 +1,5 @@
+HOST-SUFFIX, itunes.apple.com, direct
+HOST-SUFFIX, apps.apple.com, direct
+HOST-SUFFIX, mzstatic.com, direct
+HOST, itunes.apple.com, direct
+HOST, ppq.apple.com, direct
